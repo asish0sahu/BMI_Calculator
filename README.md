@@ -7,3 +7,5 @@
 - Tips for using Effect Hook
   - Multiple Effects
   - Dependency Array
+  
+  Link: https://bmi-calculator-d24a73.netlify.app/
